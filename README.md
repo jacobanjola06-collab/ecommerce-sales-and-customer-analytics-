@@ -27,7 +27,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
 
 # Insight Deep Dive 
 
-![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/dbed2fa3fef2749f9eedcbc52ab1cda70dd61f14/Screenshot%202026-03-16%20230424.png)
+![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/6a16bffec1499514b834c2f1afd26ad8d6fef6a2/Screenshot%202026-03-17%20000000.png)
 ![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/b3aa2c88a0e3c611aa4f672c5d6e8ddc2811eaf3/Screenshot%202026-03-16%20234931.png)
 
 1) **Revenue Distribution:** The business generated ***21.78M in total sales from 17,000 orders placed by 5,000 customers***, resulting in an average order value of ***1.28K.*** From a scale perspective, this indicates steady purchasing behavior and consistent transaction size across the dataset. sales is not driven by unusually large orders but by sustained order activity.When examining geographic distribution, sales is clearly concentrated in a few high-performing cities. ***The top performing city generated 5.6M, which is significantly higher than the second ranked city at 3.1M***. This shows that a substantial portion of total revenue is coming from a limited number of core markets.
