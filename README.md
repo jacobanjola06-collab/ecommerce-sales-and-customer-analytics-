@@ -44,7 +44,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
        What this says  is that the business is performing well operationally overall, but maintaining delivery within the fast to medium range is important for preserving customer satisfaction. Once delivery delays stretch past ten days, customer experience begins to weaken. The relationship isn’t extreme, but it is measurable and consistent.
 
 ![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/da0c1b5018fa0f786721b757b6a00f5f8b2f4460/Screenshot%202026-03-16%20233336.png)
-![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/fba9e1130d3734766927d62489110dc7bfe1f31e/Screenshot%202026-03-16%20230802.png)
+![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/448f46e338e8272d88373afedd727d886ce35077/Screenshot%202026-03-16%20233920.png)
 
 5) ***Customer Retention Strength:***
 Looking at customer behavior over time. Out of 5,000 total customers, ***3,862 (77.24%)*** are returning customers, while only ***1,138(22.76%)***, made a single purchase. This indicates that the majority of revenue is supported by customers who come back to purchase again, rather than relying entirely on new customer acquisition.
