@@ -23,7 +23,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
 ![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/a347b41eb03818b6ba1b855220dce03dc320e0ff/Screenshot%202026-03-16%20214813.png)
 
 
-**the entire interactive dashboard can be downloaded here** .(https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/f07114aea077e5a567de6cc0403adde38d1d591e/Ecommerce%20dashboard.pbix)
+**the entire interactive dashboard can be downloaded here** .![link alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/f07114aea077e5a567de6cc0403adde38d1d591e/Ecommerce%20dashboard.pbix)
 
 # Insight Deep Dive 
 
