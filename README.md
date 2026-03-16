@@ -20,7 +20,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
 
 *Below is an overview page from the powerBI dashboard and more examples are included throughout the report* .  
 
-
+![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/a347b41eb03818b6ba1b855220dce03dc320e0ff/Screenshot%202026-03-16%20214813.png)
 
 
 **the entire interactive dashboard can be downloaded here** .
