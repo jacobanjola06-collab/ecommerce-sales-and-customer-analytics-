@@ -12,11 +12,11 @@ This project presents a structured exploratory data analysis of an ecommerce tra
 
 •	***Customer Retention Strength:***  How strong is customer retention within the dataset?
 
-The analysis was performed using MySQL for querying, aggregation, and statistical exploration, and Power BI for KPI visualization and trend analysis.
+The analysis was performed using Excel for data cleaning, MySQL for querying, aggregation, and statistical exploration, and Power BI for KPI visualization and trend analysis.
 
 # Executive Summary
 Overview of findings
-At a high level, the business generated ***21.78M*** in revenue from 17,000 orders placed by ***5,000*** customers, with an average order value of ***1.28K*** and an average customer rating of ***3.90***. These figures indicate a healthy transaction volume and relatively stable purchasing behavior across the customer base.
+At a high level, the business generated ***21.78M*** in revenue from 17,000 orders placed by ***5,000*** customers, with an average order value of ***1.28K*** and an average customer rating of ***3.90***. These suggest healthy transaction volume and relatively stable purchasing behavior across the customer base.
 
 *Below is an overview page from the powerBI dashboard and more examples are included throughout the report* .  
 
@@ -29,7 +29,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
 
 ![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/5c27601432466129ba1eb0692562c4b91b1ad198/Screenshot%202026-03-19%20172240.png)![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/79ae526d00fd17d14f8446b706c7f1d102afeb89/Screenshot%202026-03-19%20172325.png)
 
-1) **Revenue Distribution:** The business generated ***21.78M in total sales from 17,000 orders placed by 5,000 customers***, resulting in an average order value of ***1.28K.*** From a scale perspective, this indicates steady purchasing behavior and consistent transaction size across the dataset. sales is not driven by unusually large orders but by sustained order activity.When examining geographic distribution, sales is clearly concentrated in a few high-performing cities. ***The top performing city generated 5.6M, which is significantly higher than the second ranked city at 3.1M***. This shows that a substantial portion of total revenue is coming from a limited number of core markets.
+1) **Revenue Distribution:** The business generated ***21.78M in total sales from 17,000 orders placed by 5,000 customers***, resulting in an average order value of ***1.28K.*** From a scale perspective. sales is not driven by unusually large orders but by sustained order activity.When examining geographic distribution, sales is clearly concentrated in a few high-performing cities. ***The top performing city generated 5.6M, which is significantly higher than the second ranked city at 3.1M***. This shows that a substantial portion of total revenue is coming from a limited number of core markets.
        Similarly, product category analysis shows uneven contribution, where select categories ***(electronics)*** generate a larger share of revenue **10m*** compared to the next best two performing cartegories ***Home & Gardens (4M), Sports (3M)***. This confirms that overall performance is being driven by specific high performing segments rather than evenly distributed demand.
 
 2) **Time Based And Seasonal Trends:** Revenue performance across time reveals noticeable fluctuations rather than steady growth.The most significant movement occurred in ***April***, where revenue declined by ***45%** compared to the previous month. This represents the sharpest drop within the reporting period and suggests a temporary disruption or slowdown in demand.Following this decline, the business gradually recovered. In July, revenue increased by ***14% month over month***, signaling renewed growth momentum. The year closed strongly, with December recording a ***12% increase***, indicating improved performance toward year end.
@@ -45,7 +45,7 @@ At a high level, the business generated ***21.78M*** in revenue from 17,000 orde
 ![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/a0c2efa044eb9e7db5480dd4c02b3a2ff7b9fa70/Screenshot%202026-03-19%20173020.png)![image alt](https://github.com/jacobanjola06-collab/ecommerce-sales-and-customer-analytics-/blob/f854bf6887dace9d92e37c584fe84526ae21f7e4/Screenshot%202026-03-19%20174829.png)
 
 5) ***Customer Retention Strength:***
-Looking at customer behavior over time. Out of 5,000 total customers, ***3,862 (77.24%)*** are returning customers, while only ***1,138(22.76%)***, made a single purchase. This indicates that the majority of revenue is supported by customers who come back to purchase again, rather than relying entirely on new customer acquisition.
+Looking at customer behavior over time. Out of 5,000 total customers, ***3,862 (77.24%)*** are returning customers, while only ***1,138(22.76%)***, made a single purchase. indicating that the majority of revenue is supported by customers who come back to purchase again, rather than relying entirely on new customer acquisition.
        The influence of discounts further reinforces this pattern. Customers who received discounts generated an average revenue per customer of ***4,268.7***, compared to ***2,385.4*** among customers who did not receive discounts. This is a significant difference and suggests that promotional strategies are not only driving purchases but are associated with higher overall customer value.  
 
 # Recommendation:                                                                                                                                                                                                                                                
@@ -85,6 +85,8 @@ Looking at customer behavior over time. Out of 5,000 total customers, ***3,862 (
 
 
 # Tools & Methodology
+
+•     **Excel**- data cleaning , segmentation
 
 •	**MySQL** – Aggregation, statistical exploration, growth calculations
 
