@@ -1,5 +1,5 @@
 # Project Background
-This project presents a structured exploratory data analysis of an ecommerce transactional dataset. The objective was to systematically examine revenue performance, customer behavior, operational efficiency, and sales distribution in order to understand how the business is performing and where patterns exist within the data.                                                                                                            
+This project presents a structured exploratory data analysis of an ecommerce transactional dataset. ***The objective was to systematically examine revenue performance, customer behavior, operational efficiency, and sales distribution in order to understand how the business is performing and where patterns exist within the data.***                                                                                                            
        The dataset contains detailed order level information including revenue, product categories, cities, delivery speed, discounts, customer ratings, and timestamps. It focuses on validating data quality, understanding metric distributions, identifying performance concentration, and uncovering behavioral trends across time and segments.
 
 **This exploration provide insights on the following key areas:**
